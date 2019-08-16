@@ -1,0 +1,4 @@
+credentials = {
+  'api_secret': '',
+  'token': '',
+}
